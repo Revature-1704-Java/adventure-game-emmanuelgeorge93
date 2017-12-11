@@ -1,0 +1,5 @@
+com\mycompany\app\CommandWords.class
+com\mycompany\app\Parser.class
+com\mycompany\app\Command.class
+com\mycompany\app\Room.class
+com\mycompany\app\Game.class

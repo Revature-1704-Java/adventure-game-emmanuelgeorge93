@@ -1,0 +1,19 @@
+9
+Lame_Room
+This room is pretty lame. Let's get out of here.
+Sewer
+How did u get in the Sewer?
+Pickle.Jar
+Hey someone is stuck that pickle jar!
+Internet
+You are in the internet, cats surround you!
+Office
+Great you're late for work everyone hates you now!
+Celler
+Kinda dank in here.
+Roof
+Games over we have the high ground.
+Orchastra pit
+The conductor is looking angry!
+Science_Lab
+Theres a shriveled up pickle on the desk.
